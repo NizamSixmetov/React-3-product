@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.productA{
+    color: black;
+}
+
+.ProductDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    gap: 15px;
+}
+
+.ProductDiv a img {
+    height: 250px;
+    width: 350px;
+}
+
+.productA h2,
+h3 {
+    padding: 5px;
+    width: 340px;
+}
+.priceP{
+    color: rgb(25, 226, 25);
+}
+
+.productA b{
+    color: red;
+}

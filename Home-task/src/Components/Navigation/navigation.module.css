@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navDiv {
+    margin: 50px 10px;
+}
+
+.active {
+    padding: 20px;
+    border: 2px solid white;
+}
+
+.navlink {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}

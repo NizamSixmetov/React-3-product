@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.dispF {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.dispF p {
+    padding: 10px;
+}
+
+.dispF .oldPrice {
+    color: red;
+}
+
+.dispF .newPrice {
+    color: green;
+}
+
+.dispF h5 {
+    padding: 5px;
+}
+.dispF img{
+    width: 100%;
+}
+/* ********************************* */
